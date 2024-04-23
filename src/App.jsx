@@ -1,11 +1,11 @@
+import ColorPicker from './ColorPicker.jsx'
 
-import MyComponent from './MyComponent'
 
 function App() {
 
     return(
       <>
-        <MyComponent/>
+        <ColorPicker/>
       </>
     );
 }
